@@ -8,7 +8,7 @@
 
 ```
 后端：完成这个论坛项目（课）
-	https://github.com/Programming-With-Love/bluebell
+	zc 七米论坛https://github.com/Programming-With-Love/bluebell
 	
 ```
 
@@ -33,7 +33,7 @@
 ```
 下次会议：
 1、(github:怎么用）
-2、后端介绍
+2、后端论坛项目分享
 3、前端介绍
 4、产品介绍
 ```
