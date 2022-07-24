@@ -2,13 +2,13 @@
 
 ### 技术选型
 
-时间：7.14-7.21 20：00
+时间：7.21-7.28 20：00
 
 #### 后端
 
 ```
-后端：完成这个论坛项目（课）
-	zc 七米论坛https://github.com/Programming-With-Love/bluebell
+后端：bluebell论坛P65
+	 七米论坛https://github.com/Programming-With-Love/bluebell
 	
 ```
 
